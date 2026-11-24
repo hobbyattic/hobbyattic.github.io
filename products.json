@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "aura-lamp",
+    "name": "Aura Lamp",
+    "category": "Lighting",
+    "description": "Elegant sculptural lamp with a warm ambient glow.",
+    "image": "images/aura-lamp.webp",
+    "referencePrice": 500,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": false
+  },
+  {
+    "id": "ayodhya-ram-mandir",
+    "name": "Ayodhya Ram Mandir",
+    "category": "Devotional decor",
+    "description": "Detailed temple replica in a rich metallic-gold finish.",
+    "image": "images/ayodhya-ram-mandir.webp",
+    "referencePrice": 500,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": false
+  },
+  {
+    "id": "shiva-statue",
+    "name": "Shiva Statue",
+    "category": "Statue",
+    "description": "Peaceful seated Shiva with finely sculpted details.",
+    "image": "images/shiva-statue.webp",
+    "referencePrice": 200,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": false
+  },
+  {
+    "id": "honeycomb-lamp",
+    "name": "Honeycomb Lamp",
+    "category": "Lighting",
+    "description": "Modern lamp featuring a softly glowing hexagonal pattern.",
+    "image": "images/honeycomb-lamp.webp",
+    "referencePrice": 500,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": false
+  },
+  {
+    "id": "krishna-wall-mount",
+    "name": "Krishna Wall-Mount Statue",
+    "category": "Wall decor",
+    "description": "Elegant wall décor featuring Krishna playing the flute.",
+    "image": "images/krishna-wall-mount.webp",
+    "referencePrice": 300,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": false
+  },
+  {
+    "id": "dragon-egg-lamp",
+    "name": "Dragon Egg Lamp",
+    "category": "Lighting",
+    "description": "Dramatic winged dragon guarding a glowing textured egg.",
+    "image": "images/dragon-egg-lamp.webp",
+    "referencePrice": 800,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": false
+  },
+  {
+    "id": "hanuman-statue",
+    "name": "Hanuman Statue",
+    "category": "Statue",
+    "description": "Detailed red statue in a seated blessing pose.",
+    "image": "images/hanuman-statue.webp",
+    "referencePrice": 200,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": false
+  },
+  {
+    "id": "laughing-buddha",
+    "name": "Laughing Buddha Statue",
+    "category": "Statue",
+    "description": "Cheerful gold-finished décor, available in two designs.",
+    "image": "images/laughing-buddha.webp",
+    "referencePrice": 200,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": false
+  },
+  {
+    "id": "vishnu-statue",
+    "name": "Lord Vishnu Statue",
+    "category": "Statue",
+    "description": "Antique-gold Vishnu beneath the Sheshnag canopy.",
+    "image": "images/vishnu-statue.webp",
+    "referencePrice": 200,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": false
+  },
+  {
+    "id": "durga-statue",
+    "name": "Maa Durga Statue",
+    "category": "Statue",
+    "description": "Detailed Maa Durga seated upon a lion.",
+    "image": "images/durga-statue.webp",
+    "referencePrice": 200,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": false
+  },
+  {
+    "id": "kuber-statue",
+    "name": "Lord Kuber Statue",
+    "category": "Statue",
+    "description": "Gold-finished décor symbolising prosperity and abundance.",
+    "image": "images/kuber-statue.webp",
+    "referencePrice": 200,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": false
+  },
+  {
+    "id": "shiva-blessing-statue",
+    "name": "Shiva Blessing Statue",
+    "category": "Statue",
+    "description": "Shiva in a seated meditation and blessing pose.",
+    "image": "images/shiva-blessing-statue.webp",
+    "referencePrice": 200,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": false
+  },
+  {
+    "id": "flying-hanuman",
+    "name": "Flying Hanuman",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "hanuman-reading-ramayana",
+    "name": "Hanuman Reading Ramayana",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "hanuman-bust",
+    "name": "Hanuman Bust",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "bal-hanuman",
+    "name": "Bal Hanuman",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "adiyogi-shiva",
+    "name": "Adiyogi Shiva",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "meditating-shiva",
+    "name": "Meditating Shiva",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "shivling",
+    "name": "Shivling",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "shiva-parvati-ganesha",
+    "name": "Shiva Parvati Ganesha",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "ganesha-statue",
+    "name": "Ganesha Statue",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "bal-ganesha",
+    "name": "Bal Ganesha",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "radha-krishna",
+    "name": "Radha Krishna",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "saraswati-statue",
+    "name": "Saraswati Statue",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "lakshmi-statue",
+    "name": "Lakshmi Statue",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "ram-darbar",
+    "name": "Ram Darbar",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "buddha-bust",
+    "name": "Buddha Bust",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "nandi-statue",
+    "name": "Nandi Statue",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "krishna-bust",
+    "name": "Krishna Bust",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "hanuman-gada",
+    "name": "Hanuman Gada",
+    "category": "Statue",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "spiral-lamp",
+    "name": "Spiral Lamp",
+    "category": "Lighting",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "lotus-lamp",
+    "name": "Lotus Lamp",
+    "category": "Lighting",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "moon-lamp",
+    "name": "Moon Lamp",
+    "category": "Lighting",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "gyroid-lamp",
+    "name": "Gyroid Lamp",
+    "category": "Lighting",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "wave-lamp",
+    "name": "Wave Lamp",
+    "category": "Lighting",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "geometric-lantern",
+    "name": "Geometric Lantern",
+    "category": "Lighting",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "orchid-lattice-planter",
+    "name": "Orchid Lattice Planter",
+    "category": "Planters",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "spiral-planter",
+    "name": "Spiral Planter",
+    "category": "Planters",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "honeycomb-planter",
+    "name": "Honeycomb Planter",
+    "category": "Planters",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "geometric-planter",
+    "name": "Geometric Planter",
+    "category": "Planters",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "elephant-sculpture",
+    "name": "Elephant Sculpture",
+    "category": "Home decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "horse-bust",
+    "name": "Horse Bust",
+    "category": "Home decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "lion-sculpture",
+    "name": "Lion Sculpture",
+    "category": "Home decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "abstract-couple",
+    "name": "Abstract Couple",
+    "category": "Home decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "geometric-owl",
+    "name": "Geometric Owl",
+    "category": "Home decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "lotus-decor",
+    "name": "Lotus Decor",
+    "category": "Home decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "incense-holder",
+    "name": "Incense Holder",
+    "category": "Home decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "desk-organizer",
+    "name": "Desk Organizer",
+    "category": "Home decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "personalized-nameplate",
+    "name": "Personalized Nameplate",
+    "category": "Home decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "decorative-vase",
+    "name": "Decorative Vase",
+    "category": "Home decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "om-wall-art",
+    "name": "Om Wall Art",
+    "category": "Wall decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "mandala-wall-art",
+    "name": "Mandala Wall Art",
+    "category": "Wall decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "ganesha-wall-art",
+    "name": "Ganesha Wall Art",
+    "category": "Wall decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  },
+  {
+    "id": "mountain-wall-art",
+    "name": "Mountain Wall Art",
+    "category": "Wall decor",
+    "description": "Concept listing — details and photographs to be updated.",
+    "image": "images/placeholder.svg",
+    "referencePrice": null,
+    "prices": {
+      "3": null,
+      "4": null,
+      "5": null
+    },
+    "sizeImages": {
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "draft": true
+  }
+]
