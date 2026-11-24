@@ -10,7 +10,7 @@ for p in items:
   template=next((root/'products').glob('*/index.html')).read_text()
   import re
   template=re.sub(r'data-product="[^"]*"',lambda m:'data-product="'+html.escape(p['id'],quote=True)+'"',template)
-  template=re.sub(r'<title>.*?</title>',lambda m:'<title>'+html.escape(p['name'])+' | Suraj 3D Prints</title>',template)
+  template=re.sub(r'<title>.*?</title>',lambda m:'<title>'+html.escape(p['name'])+' | Hobby Attic</title>',template)
   template=re.sub(r'<h1>.*?</h1>',lambda m:'<h1>'+html.escape(p['name'])+'</h1>',template)
   (d/'index.html').write_text(template)
 print('Catalogue updated:',len(items),'products')

@@ -1,4 +1,4 @@
-# Suraj 3D Prints 2.0
+# Hobby Attic 2.0
 Open index.html in a browser or upload the contents of this folder to your GitHub Pages repository root. Back up the old site first.
 
 ## Edit your catalogue
